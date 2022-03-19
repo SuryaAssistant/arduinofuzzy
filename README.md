@@ -111,8 +111,6 @@ Dengan fungsi fuzzifikasi segitiga dapat digunakan untuk mencari nilai keanggota
 
 ![Logo](https://github.com/SuryaAssistant/arduinofuzzy/blob/main/img/fuzzy_output_membership.png)
  
-Pembentukan grafik output
-
 </span>
 
 ```
@@ -141,6 +139,8 @@ Region = {0, 31.875, 63.75, 95.625, 127.5, 159.375, 191.25, 223.125, 255}
 <span align = "center">
 
 ![Logo](https://github.com/SuryaAssistant/arduinofuzzy/blob/main/img/fuzzy_graphic_maker.png)
+   
+Pembentukan grafik output
 
 </span>
 
