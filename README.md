@@ -150,7 +150,7 @@ Fungsi SD 	=> Bernilai PWM_SD apabila diantara SD_1 dan SD_2
 Fungsi B	=> Bernilai PWM_B apabila >= titik potong B
 ```
 
-Kemudian untuk setiap titik sampel dilakukan pemilihan nilai keanggotaan terbersar dari K, SD, dan B yang digunakan untuk membentuk fungsi akhir. Defuzzifikasi dilakukan dengan metode centroid, yaitu menentukan titik tengan dari grafik akhir. Hasil defuzzifikasi ini berupa nilai pwm yang kemudian digunakan untuk kontrol motor.
+Defuzzifikasi dilakukan dengan metode centroid, yaitu menentukan titik tengan dari grafik akhir. Hasil defuzzifikasi ini berupa nilai pwm yang kemudian digunakan untuk kontrol motor.
 
 ```
 //convert grafik_pwm into pwm value
